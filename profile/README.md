@@ -1,6 +1,6 @@
 # HeroCircle Project Overview
 <div align="center">
-  <img src="[link_to_project_image](https://assets-global.website-files.com/6057e010b2aa08f0ce7ece0b/6503cdb5071455e5c0b9dcb3_Group%20631404.png)" alt="Project Logo/Icon" width="500px" height="500px">
+  <img src="https://assets-global.website-files.com/6057e010b2aa08f0ce7ece0b/6503cdb5071455e5c0b9dcb3_Group%20631404.png" alt="Project Logo/Icon" width="500px" height="500px">
 </div>
 
 ## Introduction
