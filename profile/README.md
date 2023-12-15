@@ -1,7 +1,7 @@
 # HeroCircle Project Overview
 
 <div style="text-align: center;">
-  <div style="width: 25%; display: inline-block;">
+  <div style="width: 5%; display: inline-block;">
     <img src="https://assets-global.website-files.com/6057e010b2aa08f0ce7ece0b/6503cdb5071455e5c0b9dcb3_Group%20631404.png" alt="Project Logo/Icon" style="width: 100%; height: auto;">
   </div>
 </div>
