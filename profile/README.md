@@ -1,5 +1,5 @@
 # HeroCircle Project Overview
-
+![Project Logo/Icon](https://assets-global.website-files.com/6057e010b2aa08f0ce7ece0b/6503cdb5071455e5c0b9dcb3_Group%20631404.png)
 ## Introduction
 Welcome to the HeroCircle project repository! This project encompasses multiple frontend applications and a backend service, designed to deliver a comprehensive and robust experience for different user segments. Below you'll find detailed information about each component and relevant links.
 
